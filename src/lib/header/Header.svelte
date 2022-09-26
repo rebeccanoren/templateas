@@ -9,12 +9,8 @@
 </header>
 
 <style>
-	header {
-		display: flex;
-	}
 
 	nav {
-		flex: 1;
 		display: flex;
 		flex-direction: row;
 		justify-content: center;
